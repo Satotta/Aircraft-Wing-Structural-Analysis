@@ -26,4 +26,7 @@ The following files can be broken down into 2 categories:
      --> sample output for a wing with an aluminum spar
 
 
+To run, start MATLAB and ensure path has access to all files listed within category 1. Then type "run Wing_Analysis_Main.p"
+
+
      
