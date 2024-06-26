@@ -2,8 +2,8 @@
 
 The following files can be broken down into 2 categories:
 
-  1) Files necessary to run the function
-    * Wing_Analysis_Input.xlsx (Created by Professor John Kosmatka)
+1) Files necessary to run the function
+   * Wing_Analysis_Input.xlsx (Created by Professor John Kosmatka)
      --> neatly organizes all necessary inputs
      
    * Wing_Analysis_Output.xlsx (Created by Professor John Kosmatka)
@@ -15,7 +15,7 @@ The following files can be broken down into 2 categories:
    * Wing_Analysis_Function.p
      --> used by the main function; simply a p-code variant of Wing_Analysis_Function.m which contains all the computation and structural analysis
 
-  2) Actual code files and proof of utility (sample inputs and outputs)
+2) Actual code files and proof of utility (sample inputs and outputs)
    * Wing_Analysis_Function.m
      --> contains all the computation and structural analysis code
 
